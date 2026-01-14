@@ -1,16 +1,16 @@
-## Hi there 👋
+💫 About Me:
+Hey, I’m Shelby
 
-<!--
-**ShelbyAdisa/ShelbyAdisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web apps with React, Django, and PostgreSQL
 
-Here are some ideas to get you started:
+I’m big on clean UI, solid backend logic, and writing code that doesn’t fall apart six months later. I care about doing things the right way — structure first, polish second.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building full-stack projects, exploring scalable product ideas, and leveling up as a frontend-leaning engineer.
+
+If it’s useful, maintainable, and well-designed, I’m interested.
+
+🌐 Socials:
+LinkedIn
+
+💻 Tech Stack:
+JavaScript HTML5 Python Vercel Firebase Render Django DjangoREST NodeJS React TailwindCSS Vite Postgres MongoDB MySQL SQLite Firebase Figma Canva Jest Postman
